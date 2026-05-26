@@ -1,7 +1,9 @@
 streamlit==1.45.1
 pandas==2.2.3
 numpy==1.26.4
+scikit-learn==1.6.1
+joblib==1.4.2
+pydeck==0.9.1
+pyarrow==20.0.0
+
 geopandas==0.14.4
-shapely==2.0.7
-fiona==1.9.6
-pyproj==3.6.1
